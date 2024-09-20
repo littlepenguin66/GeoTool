@@ -16,7 +16,7 @@ GeoTools 是一个有用的地理工具应用程序，旨在帮助用户进行�
 1. 克隆仓库：
 
    ```sh
-   git clone https://github.com/yourusername/geotools.git
+   git clone https://github.com/littlepenguin66/GeoTool.git
    cd geotools
    ```
 
